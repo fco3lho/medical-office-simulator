@@ -1,6 +1,8 @@
 ## Medical Office Simulator
 
-O médico que solicitou o cadastro de um sistema na lista 5, viu que existia uma necessidade de melhorar o sistema, para que ele permita armazenar os dados do consultório, paciente, médicos (já que a partir de agora mais de um médico irá atender no mesmo consultório) e as consultas marcadas. Após uma nova reunião com o analista de sistemas responsável, foi proposto o desenvolvimento do sistema representado pelo diagrama de classes em forma de imagem (JPG) no repositório.
+O médico que solicitou o cadastro de um sistema na lista 5, viu que existia uma necessidade de melhorar o sistema, para que ele permita armazenar os dados do consultório, paciente, médicos (já que a partir de agora mais de um médico irá atender no mesmo consultório) e as consultas marcadas. Após uma nova reunião com o analista de sistemas responsável, foi proposto o desenvolvimento do sistema representado pelo seguinte diagrama de classes:
+
+![Preview-Screens](https://github.com/fco3lho/medical-office-simulator/blob/main/class%20diagram.jpg)
 
   Observação 1: O main deve ser implementado de forma que ele permita que o usuário digite:<br>
   • 1 para cadastrar um médico.<br>
